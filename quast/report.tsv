@@ -1,0 +1,49 @@
+Assembly	flye	minimap2_miniasm	minimap2_miniasm_raconX2
+# contigs (>= 0 bp)	4	9	9
+# contigs (>= 1000 bp)	4	9	9
+# contigs (>= 5000 bp)	4	9	9
+# contigs (>= 10000 bp)	4	9	9
+# contigs (>= 25000 bp)	4	9	9
+# contigs (>= 50000 bp)	4	9	9
+Total length (>= 0 bp)	4588655	2501367	2617918
+Total length (>= 1000 bp)	4588655	2501367	2617918
+Total length (>= 5000 bp)	4588655	2501367	2617918
+Total length (>= 10000 bp)	4588655	2501367	2617918
+Total length (>= 25000 bp)	4588655	2501367	2617918
+Total length (>= 50000 bp)	4588655	2501367	2617918
+# contigs	4	9	9
+Largest contig	2295100	1161677	1222798
+Total length	4588655	2501367	2617918
+Reference length	4641652	4641652	4641652
+Reference GC (%)	50.79	50.79	50.79
+N50	2295100	303115	316869
+NG50	1759165	116607	137635
+N75	1759165	187752	193511
+NG75	1759165	-	-
+L50	1	2	2
+LG50	2	8	7
+L75	2	4	4
+LG75	2	-	-
+# misassemblies	0	0	1
+# misassembled contigs	0	0	1
+Misassembled contigs length	0	0	193511
+# local misassemblies	5	0	2
+# unaligned mis. contigs	0	1	0
+# unaligned contigs	0 + 2 part	3 + 6 part	0 + 0 part
+Unaligned length	16056	2426352	0
+Genome fraction (%)	99.655	1.687	57.392
+Duplication ratio	0.989	0.958	0.983
+# N's per 100 kbp	0.00	0.00	0.00
+# mismatches per 100 kbp	819.87	3335.08	520.47
+# indels per 100 kbp	1562.75	4226.65	1520.16
+# genes	4294 + 8 part	82 + 5 part	2514 + 15 part
+Largest alignment	2294127	61053	1222798
+Total aligned length	4572487	75015	2617445
+NA50	1759165	-	316510
+NGA50	1759165	-	137614
+NA75	1759165	-	148067
+NGA75	1759165	-	-
+LA50	2	-	2
+LGA50	2	-	7
+LA75	2	-	5
+LGA75	2	-	-

@@ -1,0 +1,153 @@
+flye:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 4.0
+  '# contigs (>= 0 bp)': 4.0
+  '# contigs (>= 1000 bp)': 4.0
+  '# contigs (>= 10000 bp)': 4.0
+  '# contigs (>= 25000 bp)': 4.0
+  '# contigs (>= 5000 bp)': 4.0
+  '# contigs (>= 50000 bp)': 4.0
+  '# genes': 4294.0
+  '# genes_partial': 8.0
+  '# indels per 100 kbp': 1562.75
+  '# local misassemblies': 5.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 819.87
+  '# unaligned contigs': 0.0
+  '# unaligned contigs_partial': 2.0
+  '# unaligned mis. contigs': 0.0
+  Duplication ratio: 0.989
+  Genome fraction (%): 99.655
+  L50: 1.0
+  L75: 2.0
+  LA50: 2.0
+  LA75: 2.0
+  LG50: 2.0
+  LG75: 2.0
+  LGA50: 2.0
+  LGA75: 2.0
+  Largest alignment: 2294127.0
+  Largest contig: 2295100.0
+  Misassembled contigs length: 0.0
+  N50: 2295100.0
+  N75: 1759165.0
+  NA50: 1759165.0
+  NA75: 1759165.0
+  NG50: 1759165.0
+  NG75: 1759165.0
+  NGA50: 1759165.0
+  NGA75: 1759165.0
+  Reference GC (%): 50.79
+  Reference length: 4641652.0
+  Total aligned length: 4572487.0
+  Total length: 4588655.0
+  Total length (>= 0 bp): 4588655.0
+  Total length (>= 1000 bp): 4588655.0
+  Total length (>= 10000 bp): 4588655.0
+  Total length (>= 25000 bp): 4588655.0
+  Total length (>= 5000 bp): 4588655.0
+  Total length (>= 50000 bp): 4588655.0
+  Unaligned length: 16056.0
+minimap2_miniasm:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 9.0
+  '# contigs (>= 0 bp)': 9.0
+  '# contigs (>= 1000 bp)': 9.0
+  '# contigs (>= 10000 bp)': 9.0
+  '# contigs (>= 25000 bp)': 9.0
+  '# contigs (>= 5000 bp)': 9.0
+  '# contigs (>= 50000 bp)': 9.0
+  '# genes': 82.0
+  '# genes_partial': 5.0
+  '# indels per 100 kbp': 4226.65
+  '# local misassemblies': 0.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 3335.08
+  '# unaligned contigs': 3.0
+  '# unaligned contigs_partial': 6.0
+  '# unaligned mis. contigs': 1.0
+  Duplication ratio: 0.958
+  Genome fraction (%): 1.687
+  L50: 2.0
+  L75: 4.0
+  LA50: '-'
+  LA75: '-'
+  LG50: 8.0
+  LG75: '-'
+  LGA50: '-'
+  LGA75: '-'
+  Largest alignment: 61053.0
+  Largest contig: 1161677.0
+  Misassembled contigs length: 0.0
+  N50: 303115.0
+  N75: 187752.0
+  NA50: '-'
+  NA75: '-'
+  NG50: 116607.0
+  NG75: '-'
+  NGA50: '-'
+  NGA75: '-'
+  Reference GC (%): 50.79
+  Reference length: 4641652.0
+  Total aligned length: 75015.0
+  Total length: 2501367.0
+  Total length (>= 0 bp): 2501367.0
+  Total length (>= 1000 bp): 2501367.0
+  Total length (>= 10000 bp): 2501367.0
+  Total length (>= 25000 bp): 2501367.0
+  Total length (>= 5000 bp): 2501367.0
+  Total length (>= 50000 bp): 2501367.0
+  Unaligned length: 2426352.0
+minimap2_miniasm_raconX2:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 9.0
+  '# contigs (>= 0 bp)': 9.0
+  '# contigs (>= 1000 bp)': 9.0
+  '# contigs (>= 10000 bp)': 9.0
+  '# contigs (>= 25000 bp)': 9.0
+  '# contigs (>= 5000 bp)': 9.0
+  '# contigs (>= 50000 bp)': 9.0
+  '# genes': 2514.0
+  '# genes_partial': 15.0
+  '# indels per 100 kbp': 1520.16
+  '# local misassemblies': 2.0
+  '# misassembled contigs': 1.0
+  '# misassemblies': 1.0
+  '# mismatches per 100 kbp': 520.47
+  '# unaligned contigs': 0.0
+  '# unaligned contigs_partial': 0.0
+  '# unaligned mis. contigs': 0.0
+  Duplication ratio: 0.983
+  Genome fraction (%): 57.392
+  L50: 2.0
+  L75: 4.0
+  LA50: 2.0
+  LA75: 5.0
+  LG50: 7.0
+  LG75: '-'
+  LGA50: 7.0
+  LGA75: '-'
+  Largest alignment: 1222798.0
+  Largest contig: 1222798.0
+  Misassembled contigs length: 193511.0
+  N50: 316869.0
+  N75: 193511.0
+  NA50: 316510.0
+  NA75: 148067.0
+  NG50: 137635.0
+  NG75: '-'
+  NGA50: 137614.0
+  NGA75: '-'
+  Reference GC (%): 50.79
+  Reference length: 4641652.0
+  Total aligned length: 2617445.0
+  Total length: 2617918.0
+  Total length (>= 0 bp): 2617918.0
+  Total length (>= 1000 bp): 2617918.0
+  Total length (>= 10000 bp): 2617918.0
+  Total length (>= 25000 bp): 2617918.0
+  Total length (>= 5000 bp): 2617918.0
+  Total length (>= 50000 bp): 2617918.0
+  Unaligned length: 0.0
